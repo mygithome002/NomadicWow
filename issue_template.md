@@ -10,4 +10,4 @@
 2. 
 3. 
 
-**NomadicWow Core commit / Repack core & DB version**:  
+**ArkCore commit / Repack core & DB version**:  
